@@ -15,6 +15,7 @@ pipeline {
       stage('Deploy') {s
           steps {
               echo 'Deploying....'
+              echo 'hello amol'
           }
       }
   }
